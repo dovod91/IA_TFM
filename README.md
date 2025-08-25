@@ -21,3 +21,9 @@ The Jupyter notebooks contain:
 ### SW_R_T_DATA_POST_SYMB_REG
 1. to 2. (Same previous 1-2)
       3. Training and testing of symbolic regression model
+
+### sw_r_T_testingthings
+1. Testing code for preliminar analysis of micromagnetic behavior
+
+### SW_R_t_TWO_BOUNDARIES
+1. All micromagnetic code to run simulations
