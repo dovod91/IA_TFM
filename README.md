@@ -10,14 +10,14 @@ The Jupyter notebooks contain:
 4. Training and testing of Random Forest models and polynomial fitting
 
 ### SW_R_T_DATA_POST_NN
-1. - 3. (Same previous 1-3)
-     4. Training and testing of MLP models and polynomial fitting
+1. to 3. (Same previous 1-3)
+      4. Training and testing of MLP models and polynomial fitting
     
 ### SW_R_T_DATA_POST_REG
-1. - 3. (Same previous 1-3)
-     4. PCA and related figures
-     5. Training and testing of preliminar OLS models and polynomial regression
+1. to 3. (Same previous 1-3)
+      4. PCA and related figures
+      5. Training and testing of preliminar OLS models and polynomial regression
     
 ### SW_R_T_DATA_POST_SYMB_REG
-1. - 2. (Same previous 1-2)
-     3. Training and testing of symbolic regression model
+1. to 2. (Same previous 1-2)
+      3. Training and testing of symbolic regression model
