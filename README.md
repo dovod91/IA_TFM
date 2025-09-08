@@ -27,3 +27,6 @@ The Jupyter notebooks contain:
 
 ### SW_R_t_TWO_BOUNDARIES
 1. All micromagnetic code to run simulations
+
+### spin_wave_results_LHS_1000_LG2um.csv
+1. Dataset containing all micromagnetic simulation results
