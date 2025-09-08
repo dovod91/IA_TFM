@@ -1,5 +1,10 @@
 # IA_TFM (M. Sc. Big Data, Data Science and AI final project)
-Open Access  repository containing all code related to my AI+Data Science M. Sc.
+Open Access  repository containing all code (and dataset) related to my AI+Data Science M. Sc. project.
+
+The dataset:
+
+### spin_wave_results_LHS_1000_LG2um.csv
+1. Dataset containing all micromagnetic simulation results (explicative variables and target variables)
 
 The Jupyter notebooks contain:
 
@@ -27,6 +32,3 @@ The Jupyter notebooks contain:
 
 ### SW_R_t_TWO_BOUNDARIES
 1. All micromagnetic code to run simulations
-
-### spin_wave_results_LHS_1000_LG2um.csv
-1. Dataset containing all micromagnetic simulation results
